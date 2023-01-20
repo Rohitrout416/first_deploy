@@ -1,0 +1,11 @@
+PORT = 3000
+
+URI = mongodb+srv://hello:helloboy@cluster0.ro2teh7.mongodb.net/?retryWrites=true&w=majority
+
+secret = 'ninjadojoshifuyoshimarioluigipeachbowser'
+
+baseURL = 'http://localhost:3000'
+
+clientID = 'lOR5gIEMu4aK2CGLqATMdr5i6tmDUmTQ'
+
+issuerBaseURL = 'https://dev-b3y8m--i.us.auth0.com'
